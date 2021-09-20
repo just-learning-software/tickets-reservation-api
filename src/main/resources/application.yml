@@ -4,7 +4,6 @@ server:
   servlet:
     context-path: /reservations/api
 
-
 spring:
   application:
     name: reservationserver
